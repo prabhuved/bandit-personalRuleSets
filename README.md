@@ -1,4 +1,4 @@
-Tweaked the rulesets for my personal use. The "calls.py" file is updated with new rulesets that find vulnerabilities in django and flask
+Bandit tweaked for personal use. The "calls.py" file is updated with new rulesets that find vulnerabilities in django and flask
 
 # Setup process
 For Python 2.7 - 
